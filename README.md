@@ -1,13 +1,17 @@
 # Clinic Management System
 
 ## Overview
-The Clinic Management System is a comprehensive web-based application designed to streamline the administrative and operational functions of a medical clinic. This system provides a user-friendly interface for managing patient records, scheduling appointments, and maintaining medical records.
+The Clinic Management System is a comprehensive web-based application designed to streamline the administrative and operational functions of a medical clinic. This system provides a user-friendly interface for managing patient records, scheduling appointments, and maintaining medical records, with distinct dashboards for different users.
 
 Key features include:
   -  **Patient Management:** Securely store and manage patient information, including personal details, medical history, and treatment records.
   - **Appointment Scheduling:** Allow patients to book, reschedule, and cancel appointments online, while enabling clinic staff to manage and track schedules efficiently.
   - **Medical Records:** Maintain detailed records of patient diagnoses, treatments, and medications.
-
+  - **Dashboards:**
+      - Owner Dashboard: Manage clinic operations, monitor the webpage.
+      - Client Dashboard: Book and manage appointments, view medical records, and access personal information.
+      - Doctor Dashboard: Access patient records, update medical information, and generate consultations.
+      - Home Page: Provide an overview of the system with navigation to various features and dashboards.
 
 LOGO:
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/f35ab4dd-dc10-42cf-afda-c56b03fa9096">
