@@ -8,7 +8,7 @@ Key features include:
   - **Appointment Scheduling:** Allow patients to book, reschedule, and cancel appointments online, while enabling clinic staff to manage and track schedules efficiently.
   - **Medical Records:** Maintain detailed records of patient diagnoses, treatments, and medications.
   - **Dashboards:**
-      - Owner Dashboard: Manage clinic operations, monitor the webpage.
+      - Owner Dashboard:  Allows owners to manage and customize the homepage to ensure it reflects the current status and updates of the nursery.
       - Client Dashboard: Book and manage appointments, view medical records, and access personal information.
       - Doctor Dashboard: Access patient records, update medical information, and generate consultations.
       - Home Page: Provide an overview of the system with navigation to various features and dashboards.
