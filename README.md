@@ -4,10 +4,9 @@
 The Clinic Management System is a comprehensive web-based application designed to streamline the administrative and operational functions of a medical clinic. This system provides a user-friendly interface for managing patient records, scheduling appointments, and maintaining medical records.
 
 Key features include:
-
-Patient Management: Securely store and manage patient information, including personal details, medical history, and treatment records.
-Appointment Scheduling: Allow patients to book, reschedule, and cancel appointments online, while enabling clinic staff to manage and track schedules efficiently.
-Medical Records: Maintain detailed records of patient diagnoses, treatments, and medications.
+  -  **Patient Management:** Securely store and manage patient information, including personal details, medical history, and treatment records.
+  - **Appointment Scheduling:** Allow patients to book, reschedule, and cancel appointments online, while enabling clinic staff to manage and track schedules efficiently.
+  - **Medical Records:** Maintain detailed records of patient diagnoses, treatments, and medications.
 
 
 LOGO:
